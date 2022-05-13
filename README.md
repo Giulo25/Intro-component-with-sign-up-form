@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Giulo25/Intro-component-with-sign-up-form)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://giulo25.github.io/Intro-component-with-sign-up-form/)
 
 ## Author
 
