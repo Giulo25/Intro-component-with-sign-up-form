@@ -28,7 +28,6 @@ main {
   height: 80rem;
   background: #ff7979 url(images/bg-intro-desktop.png) no-repeat center center;
   margin: 0 auto;
-  /* margin top da togliere alla fine per lo screenshot*/
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
