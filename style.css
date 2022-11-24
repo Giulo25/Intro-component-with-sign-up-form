@@ -215,6 +215,10 @@ input[type="submit"]:active {
   input {
     padding: 16px;
   }
+  input[type=submit] {
+    -webkit-appearance: button;
+    padding: 1.6rem;
+  }
   h1 {
     font-size: 2.8rem;
     line-height: 1.3;
